@@ -1,4 +1,4 @@
-# Multiplex Pricing Engine
+# ticket_pricing_engine
 
 A configurable cinema ticket pricing engine that calculates every amount in integer paisa and returns a line-by-line bill.
 

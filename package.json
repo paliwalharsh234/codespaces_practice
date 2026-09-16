@@ -1,5 +1,5 @@
 {
-  "name": "multiplex-pricing-engine",
+  "name": "ticket_pricing_engine",
   "version": "1.0.0",
   "type": "module",
   "main": "src/index.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paliwalharsh234/codespaces_practice.git"
+    "url": "git+https://github.com/paliwalharsh234/ticket_pricing_engine.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paliwalharsh234/codespaces_practice/issues"
+    "url": "https://github.com/paliwalharsh234/ticket_pricing_engine/issues"
   },
-  "homepage": "https://github.com/paliwalharsh234/codespaces_practice#readme",
+  "homepage": "https://github.com/paliwalharsh234/ticket_pricing_engine#readme",
   "dependencies": {
     "acorn": "^8.18.0",
     "acorn-walk": "^8.3.5",
